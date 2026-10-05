@@ -1,0 +1,83 @@
+{
+  "susu_sapi": {
+    "display_name": "Susu Sapi (Cow's Milk Protein)",
+    "risk_level": "HIGH",
+    "medical_note": "Penyebab alergi makanan tersering pada balita. Reaksi bisa berupa kulit (eksimer), pencernaan (kolik/diare berdarah), atau pernapasan.",
+    "reference": "WHO Guidelines on Complementary Feeding; IDAI (2023)",
+    "keywords": [
+      "susu", "milk", "keju", "cheese", "yoghurt", "yogurt", "butter", "mentega", 
+      "krim", "cream", "whey", "kasein", "casein", "lactalbumin", "curd", "ghee"
+    ]
+  },
+  "telur": {
+    "display_name": "Telur (Egg)",
+    "risk_level": "HIGH",
+    "medical_note": "Alergen umum. IDAI menyarankan pemberian kuning telur dulu, lalu putih telur secara bertahap untuk memantau reaksi.",
+    "reference": "IDAI Panduan MPASI; WHO",
+    "keywords": [
+      "telur", "egg", "putih telur", "kuning telur", "egg white", "egg yolk", 
+      "albumin", "globulin", "mayones", "mayonnaise", "meringue", "custard"
+    ]
+  },
+  "gandum": {
+    "display_name": "Gandum & Gluten (Wheat/Gluten)",
+    "risk_level": "MODERATE",
+    "medical_note": "Perhatikan intoleransi gluten atau Celiac Disease. Sering tersembunyi dalam bentuk tepung terigu.",
+    "reference": "WHO; IDAI",
+    "keywords": [
+      "gandum", "wheat", "tepung terigu", "flour", "gluten", "roti", "bread", 
+      "pasta", "mie", "noodle", "biskuit", "biscuit", "cracker", "oat", "havermut", 
+      "barley", "rye", "seitan"
+    ]
+  },
+  "kedelai": {
+    "display_name": "Kedelai (Soy)",
+    "risk_level": "MODERATE",
+    "medical_note": "Sering menjadi pengganti susu sapi, namun tetap berpotensi alergen. Hati-hati pada produk olahan.",
+    "reference": "IDAI; WHO",
+    "keywords": [
+      "kedelai", "soy", "soya", "tahu", "tofu", "tempe", "susu kedelai", "soy milk", 
+      "kecap", "soy sauce", "miso", "edamame", "lecithin", "textured vegetable protein", "tvp"
+    ]
+  },
+  "kacang_tanah": {
+    "display_name": "Kacang Tanah (Peanut)",
+    "risk_level": "HIGH",
+    "medical_note": "Alergen kuat yang bisa memicu reaksi anafilaksis. Sering tersembunyi dalam bumbu masakan atau camilan.",
+    "reference": "WHO; IDAI",
+    "keywords": [
+      "kacang tanah", "peanut", "selai kacang", "peanut butter", "groundnut", 
+      "arachis oil", "kacang merah", "kacang hijau"
+    ]
+  },
+  "kacang_pohon": {
+    "display_name": "Kacang Pohon (Tree Nuts)",
+    "risk_level": "HIGH",
+    "medical_note": "Termasuk almond, walnut, mete, dll. Risiko anafilaksis tinggi.",
+    "reference": "WHO; IDAI",
+    "keywords": [
+      "almond", "walnut", "mete", "cashew", "hazelnut", "pistachio", "pecan", 
+      "macadamia", "kenari", "bertholletia", "nut oil", "marzipan"
+    ]
+  },
+  "ikan": {
+    "display_name": "Ikan (Fish)",
+    "risk_level": "MODERATE",
+    "medical_note": "IDAI menyarankan pengenalan ikan putih (tanah air) lebih dulu sebelum ikan laut dalam.",
+    "reference": "IDAI Panduan MPASI",
+    "keywords": [
+      "ikan", "fish", "tuna", "salmon", "cod", "kakap", "bawal", "teri", 
+      "anchovy", "fish sauce", "nuoc mam", "surimi", "fish oil"
+    ]
+  },
+  "kerang": {
+    "display_name": "Kerang & Seafood (Shellfish)",
+    "risk_level": "HIGH",
+    "medical_note": "Alergen kuat. Sering bereaksi silang dengan tungau debu rumah.",
+    "reference": "WHO; IDAI",
+    "keywords": [
+      "udang", "shrimp", "prawn", "kepiting", "crab", "lobster", "cumi", "squid", 
+      "gurita", "octopus", "kerang", "clam", "mussel", "scallop", "chitin"
+    ]
+  }
+}
