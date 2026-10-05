@@ -47,5 +47,8 @@ cd smart-mpasai-engine
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install streamlit
+```
 ### 2. Run the App
+```bash
 streamlit run app.py
+```
