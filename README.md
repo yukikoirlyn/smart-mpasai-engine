@@ -42,7 +42,7 @@ The pipeline is designed to separate data cleaning from AI inference:
 ## 🚀 Quick Start
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/yourusername/smart-mpasai-engine.git
+git clone https://github.com/yukikoirlyn/smart-mpasai-engine.git
 cd smart-mpasai-engine
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
